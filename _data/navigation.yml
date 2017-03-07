@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "LOP"
-    url: /lop/
-
   - title: "Database"
     url: /database/
 
@@ -12,3 +9,5 @@ main:
 models:
   - title: "RBM"
     url: /RBM/
+  - title: "cRBM"
+    url: /cRBM/

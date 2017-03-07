@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "LOP"
 title_separator          : "-"
-name                     : "Léopold Crestel & Philippe Esling"
+name                     : "Leo"
 description              : "Live Orchestral Piano project"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Live Orchestral Project"
+  avatar           :
+  bio              :
+  location         : "IRCAM, Paris"
+  email            : "leopold.crestel@ircam.fr"
   uri              :
   bitbucket        :
   codepen          :
