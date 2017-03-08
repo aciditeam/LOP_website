@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "LOP"
 title_separator          : "-"
-name                     : "Leo"
+name                     : "Léopold Crestel"
 description              : "Live Orchestral Piano project"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
